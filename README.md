@@ -8,5 +8,5 @@ http://weverify.co.za/
 
 
 It gives a Green Result if the domain is Verified! ![SignUp](/screenshots/green.png)
-It gives a Red Result if the domain is NOT Verified! ![SignUp](/screenshots/red1.png)
+It gives a Red Result if the domain is NOT Verified! ![SignUp](/screenshots/red.png)
 
