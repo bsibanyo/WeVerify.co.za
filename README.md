@@ -4,3 +4,9 @@ WeVerify is a website designed to help alleviate fraud in the tender sector, onc
 "So before flying off and getting quotes online first make sure that you are being contacted by the real deal."
 Visit:
 http://weverify.co.za/
+
+
+
+It gives a Green Result if the domain is Verified! ![SignUp](/screenshots/signUp.png)
+It gives a Red Result if the domain is NOT Verified! ![SignUp](/screenshots/signUp.png)
+
